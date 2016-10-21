@@ -7,7 +7,7 @@
     .when('/courses', {templateUrl:'/libs/views/courses.html', controller:'courseController'})
     .when('/courses/:id', {templateUrl:'/libs/views/coursedetail.html', controller:'coursedetailController'})
     .when('/employees', {templateUrl:'/libs/views/employees.html', controller:''})
-    // .when('/employees/:empno', {templateUrl:'/libs/views/empDetails.html', controller:'empdetailController'})
+    .when('/test', {templateUrl:'/libs/views/test.html', controller:'testController'})
     .otherwise({redirectTo:'/'})
   })
 })()

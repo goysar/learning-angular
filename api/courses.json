@@ -1,12 +1,19 @@
 {
   "coursedata":[
-    {"id":0,"title":"AngularJS Jumpstart", "level": 3, "genre":"Technical", "category":"Web development"},
-    {"id":1,"title":"Basics of Linux", "level": 3, "genre":"Technical", "category":"Open source"},
-    {"id":2,"title":"Raspberry Pi", "level": 3, "genre":"Technical", "category":"IOT"},
-    {"id":3,"title":"MVC ASP.NET", "level": 3, "genre":"Technical", "category":"Web development"},
-    {"id":4,"title":"MongoDB", "level": 3, "genre":"Technical", "category":"NO SQL Database"},
-    {"id":5,"title":"JavaScript", "level": 3, "genre":"Technical", "category":"Web development"},
-    {"id":6,"title":"VB.NET", "level": 3, "genre":"Technical", "category":"Desktop development"},
-    {"id":7,"title":"Python", "level": 3, "genre":"Technical", "category":"Open Source"}
+    {"id":0,"title":"AngularJS Jumpstart", "level": 3, "genre":"Technical", "category":"Web development", "desc": "Bacon ipsum dolor amet leberkas pork chop sirloin tongue. Doner sausage boudin pig rump brisket "},
+
+    {"id":1,"title":"Basics of Linux", "level": 3, "genre":"Technical", "category":"Open source", "desc": "Bacon ipsum dolor amet leberkas pork chop sirloin tongue. Doner sausage boudin pig rump brisket "},
+
+    {"id":2,"title":"Raspberry Pi", "level": 3, "genre":"Technical", "category":"IOT", "desc": "Bacon ipsum dolor amet leberkas pork chop sirloin tongue. Doner sausage boudin pig rump brisket "},
+
+    {"id":3,"title":"MVC ASP.NET", "level": 3, "genre":"Technical", "category":"Web development", "desc": "Bacon ipsum dolor amet leberkas pork chop sirloin tongue. Doner sausage boudin pig rump brisket "},
+
+    {"id":4,"title":"MongoDB", "level": 3, "genre":"Technical", "category":"NO SQL Database", "desc": "Bacon ipsum dolor amet leberkas pork chop sirloin tongue. Doner sausage boudin pig rump brisket "},
+
+    {"id":5,"title":"JavaScript", "level": 3, "genre":"Technical", "category":"Web development", "desc": "Bacon ipsum dolor amet leberkas pork chop sirloin tongue. Doner sausage boudin pig rump brisket "},
+
+    {"id":6,"title":"VB.NET", "level": 3, "genre":"Technical", "category":"Desktop development", "desc": "Bacon ipsum dolor amet leberkas pork chop sirloin tongue. Doner sausage boudin pig rump brisket "},
+
+    {"id":7,"title":"Python", "level": 3, "genre":"Technical", "category":"Open Source", "desc": "Bacon ipsum dolor amet leberkas pork chop sirloin tongue. Doner sausage boudin pig rump brisket "}
   ]
 }

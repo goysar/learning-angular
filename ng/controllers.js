@@ -97,4 +97,11 @@
         $scope.busy=false
       }, function(){})
   })
+  .controller('testController', function($scope){
+    $scope.message ='this is from inside the controller'
+    $scope.userInfo={
+      login:'this is from inside the controller',
+      passwd:''
+    }
+  })
 })()

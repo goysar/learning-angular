@@ -1,0 +1,13 @@
+<div class="panel panel-success" >
+  <div class="panel-heading">
+    <h3 class="panel-title">{{title}}
+      <span class="pull-right">
+        <button ng-click='toggleCollapse()' type="button" name="button" class="btn btn-default btn-sm"></button>
+      </span>
+    </h3>
+  </div>
+  <div class="panel-body" ng-transclude ng-show='collapse==false'>
+    <!-- this content is to be dynamic from the manifestation of the directive -->
+
+  </div>
+</div>
